@@ -1,0 +1,53 @@
+# Unity-generated caches, builds and local settings
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild*/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.cache/
+/.gradle/
+
+# IDE-generated files
+/.vs/
+/.vscode/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.csproj.meta
+*.sln.meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local environment secrets and signing credentials
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.keystore
+*.jks
+credentials.json
+secrets.json
+
+# Keep Assets (including .meta files), Packages manifests and ProjectSettings.
